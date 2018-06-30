@@ -1,0 +1,11 @@
+header {
+  color: yellow;
+  font-size: 100px;
+  text-align: center;
+  font-weight: bold;
+}
+
+h2 {
+  background-color: aquamarine;
+  color: white;
+}
